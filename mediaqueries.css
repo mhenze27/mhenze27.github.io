@@ -25,6 +25,7 @@
     }
     #profile,
     .section-container {
+        margin-top: 5vh;
         display: block;
     }
     .arrow {
